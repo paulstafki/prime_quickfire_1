@@ -1,4 +1,2 @@
 # Quickfire Challenge 1 Bonus
-Red P Text
-console.log "Quickfire Challenge"
-Time
+2:20PM, July 14th 2015
